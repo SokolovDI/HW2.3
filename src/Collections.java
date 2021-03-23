@@ -16,6 +16,13 @@
 
 public class Collections {
     public static void main(String[] args) {
-
+        ArrayOfStrings.Task1a();
+        NewTask();
+        ArrayOfStrings.Task1b();
+        NewTask();
+        PhoneBook.Task2();
+    }
+    public static void NewTask(){
+        System.out.print("\n");
     }
 }
